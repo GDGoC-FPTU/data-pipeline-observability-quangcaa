@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-2A202600243
+**Student ID:** 2A202600243
 **Name:** Nguyễn Việt Quang
 **Date:** 2026-04-15
 
